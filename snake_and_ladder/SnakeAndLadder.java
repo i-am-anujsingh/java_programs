@@ -57,8 +57,9 @@ int getTop(){return this.top;}
 
 
 
-//---MAIN GAME CLASS---
-class Game{
+//---MAIN SnakeAndLadder CLASS---
+class SnakeAndLadder{
+    
 public static void main(String args[]){
 
 System.out.println("\n------------| Snake & Ladder |------------\n");
